@@ -1,1 +1,1 @@
-# 这个里面就只有一个markdown学习笔记，还是用markdown写的，所谓学以致用。(‾◡◝)
+# 这个里面就有markdown，git学习笔记，其中markdown学习笔记还是用markdown写的，所谓学以致用。(‾◡◝)
